@@ -16,7 +16,6 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] map layout sketch
-- [ ] visual feedback : hit stop
 - [ ] meta proggression : minor kalici yukseltmeler
 - [ ] degisik silahlar veya silah kombinasyonlari
 
@@ -30,7 +29,9 @@ kanban-plugin: board
 - [ ] Camera shake
 - [ ] [[enemy movement]]
 - [ ] Transition effect (black screen)
+- [ ] visual feedback : hit stop
 - [ ] mage enemy class
+- [ ] 2 more enemy types
 
 
 

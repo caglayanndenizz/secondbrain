@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] Oyunun icerisinden edinebilecegin mistik bir cihaz. Mini pet besleme oyunu.
 - [ ] fog of war perhaps? In certain areas?
 - [ ] spamming the left key could increase the camera shake.
-- [ ] dungeon mobility 1.5x
 - [ ] camera zoom lower in the village area
 
 
@@ -28,6 +27,7 @@ kanban-plugin: board
 
 - [ ] Camera shake
 - [ ] [[enemy movement]]
+- [ ] dungeon mobility 1.5x
 - [ ] Transition effect (black screen)
 - [ ] visual feedback : hit stop
 - [ ] mage enemy class

@@ -4,27 +4,24 @@ kanban-plugin: board
 
 ---
 
-## BACKLOG
-
-- [ ] Oyunun icerisinden edinebilecegin mistik bir cihaz. Mini pet besleme oyunu.
-- [ ] fog of war perhaps? In certain areas?
-- [ ] spamming the left key could increase the camera shake.
-- [ ] camera zoom lower in the village area
-
-
 ## TO DO
 
 - [ ] dungeon png si ekle
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
-- [ ] enemy png lerini degistir ve animasyonlarini hallet
-- [ ] Slider'larin png sini duzenle
+- [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
+- [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] her 5 katta bir odul verilecek sandik
 
 
 ## DOING
 
+
+
+## BUGS
+
+- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 
 
 ## DONE
@@ -45,10 +42,18 @@ kanban-plugin: board
 - [ ] 2 more enemy types
 
 
+## BACKLOG
+
+- [ ] Oyunun icerisinden edinebilecegin mistik bir cihaz. Mini pet besleme oyunu.
+- [ ] fog of war perhaps? In certain areas?
+- [ ] spamming the left key could increase the camera shake.
+- [ ] camera zoom lower in the village area
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

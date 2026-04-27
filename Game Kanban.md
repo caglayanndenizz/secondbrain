@@ -17,6 +17,10 @@ kanban-plugin: board
 - [ ] dungeon png si ekle
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
+- [ ] enemy png lerini degistir ve animasyonlarini hallet
+- [ ] Slider'larin png sini duzenle
+- [ ] Katlarda Wave mekanigi olustur ve uygula
+- [ ] her 5 katta bir odul verilecek sandik
 
 
 ## DOING
@@ -26,7 +30,7 @@ kanban-plugin: board
 ## DONE
 
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
-- [ ] hammer charge aktifken oyuncunun damage almasini yuzde 95 azalt.
+- [ ] hammer charge aktifken oyuncunun damage almasini yuzde x azalt.
 - [ ] level up sonrasi butun barlar fullencek
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] gold count ui ve level count ui
@@ -45,6 +49,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

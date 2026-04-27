@@ -22,6 +22,7 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
+- [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
 
 
 ## DONE

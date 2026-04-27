@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] level up sonrasi butun barlar fullencek
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] dungeon png si ekle
+- [ ] ana karakterin pngsini ve animasyonlarini yenile.
 
 
 ## DOING
@@ -41,6 +42,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
 ```
 %%

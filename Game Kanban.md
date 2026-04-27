@@ -16,7 +16,6 @@ kanban-plugin: board
 
 - [ ] map layout sketch
 - [ ] level up sonrasi butun barlar fullencek
-- [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] dungeon png si ekle
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
 - [ ] hammer charge aktifken oyuncunun damage almasini yuzde 95 azalt.
@@ -28,6 +27,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
+- [ ] gold count ui ve level count ui
 - [ ] can ve experience bar
 - [ ] hammer charge icin bar
 - [ ] Camera shake
@@ -43,6 +44,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
 ```
 %%

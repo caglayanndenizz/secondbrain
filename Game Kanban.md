@@ -15,7 +15,6 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] dungeon png si ekle
-- [ ] ana karakterin pngsini ve animasyonlarini yenile.
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 
@@ -26,6 +25,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] ana karakterin pngsini ve animasyonlarini yenile.
 - [ ] hammer charge aktifken oyuncunun damage almasini yuzde 95 azalt.
 - [ ] level up sonrasi butun barlar fullencek
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik

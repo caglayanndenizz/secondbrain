@@ -21,6 +21,7 @@ kanban-plugin: board
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] dungeon png si ekle
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
+- [ ] hammer charge aktifken oyuncunun damage almasini yuzde 95 azalt.
 
 
 ## DOING

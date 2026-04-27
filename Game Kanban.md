@@ -14,11 +14,10 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] map layout sketch
-- [ ] level up sonrasi butun barlar fullencek
 - [ ] dungeon png si ekle
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
-- [ ] hammer charge aktifken oyuncunun damage almasini yuzde 95 azalt.
+- [ ] experience alma ve level mantigini duzenle.
+- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 
 
 ## DOING
@@ -27,6 +26,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] hammer charge aktifken oyuncunun damage almasini yuzde 95 azalt.
+- [ ] level up sonrasi butun barlar fullencek
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] gold count ui ve level count ui
 - [ ] can ve experience bar

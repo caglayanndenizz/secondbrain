@@ -15,8 +15,11 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] map layout sketch
-- [ ] meta proggression : minor kalici yukseltmeler
-- [ ] degisik silahlar veya silah kombinasyonlari
+- [ ] hammer charge icin bar
+- [ ] can ve experience bar
+- [ ] level up sonrasi butun barlar fullencek
+- [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
+- [ ] dungeon png si ekle
 
 
 ## DOING

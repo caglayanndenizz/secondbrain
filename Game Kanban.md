@@ -15,8 +15,6 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] map layout sketch
-- [ ] hammer charge icin bar
-- [ ] can ve experience bar
 - [ ] level up sonrasi butun barlar fullencek
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] dungeon png si ekle
@@ -30,6 +28,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] can ve experience bar
+- [ ] hammer charge icin bar
 - [ ] Camera shake
 - [ ] [[enemy movement]]
 - [ ] dungeon mobility 1.5x
@@ -43,6 +43,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

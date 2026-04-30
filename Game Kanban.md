@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] her 5 katta bir odul verilecek sandik
+- [ ] sag tika bow koy
 
 
 ## DOING

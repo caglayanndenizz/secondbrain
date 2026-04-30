@@ -50,6 +50,7 @@ kanban-plugin: board
 - [ ] fog of war perhaps? In certain areas?
 - [ ] spamming the left key could increase the camera shake.
 - [ ] camera zoom lower in the village area
+- [ ] kirilabilir duvarlardan uygun lootlar
 
 
 

@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] her 5 katta bir odul verilecek sandik
-- [ ] sag tika bow koy
+- [ ] sag tika bow koy, arrowlarin ucundaki collider a sart ver eger wall a degerse dursun eger enemy ye degerse ucsun ve parcalansin
 - [ ] level design 5 kat
 - [ ] deneme
 

@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] her 5 katta bir odul verilecek sandik
 - [ ] sag tika bow koy
 - [ ] level design 5 kat
+- [ ] deneme
 
 
 ## DOING

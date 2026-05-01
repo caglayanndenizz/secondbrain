@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] her 5 katta bir odul verilecek sandik
 - [ ] sag tika bow koy
+- [ ] level design 5 kat
 
 
 ## DOING

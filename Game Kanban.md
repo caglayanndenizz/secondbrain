@@ -20,14 +20,13 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] bow safi sol tik da charge in calismasini istemiyorum. Mouse a 1 saniyeden fazla sol tiki tutarsan bow charge i calistir seklinde bir sey yapmamiz lazim.
 
 
 ## BUGS
 
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
-- [ ] bow safi sol tik da charge in calismasini istemiyorum. Mouse a 1 saniyeden fazla sol tiki tutarsan bow charge i calistir seklinde bir sey yapmamiz lazim.
-- [ ] hammercharge da arrow instantiate ediliyor.
 
 
 ## DONE
@@ -45,6 +44,7 @@ kanban-plugin: board
 - [ ] Transition effect (black screen)
 - [ ] visual feedback : hit stop
 - [ ] mage enemy class
+- [ ] hammercharge da arrow instantiate ediliyor.
 - [ ] 2 more enemy types
 
 

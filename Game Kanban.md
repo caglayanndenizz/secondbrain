@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] dungeon png si ekle
 - [ ] experience alma ve level mantigini duzenle.
-- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
@@ -20,11 +19,12 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 
 
 ## BUGS
 
+- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
+- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
 
 

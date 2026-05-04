@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
+- [ ] belirli fonksiyonlari augment alma tarzi yap
 
 
 ## DOING

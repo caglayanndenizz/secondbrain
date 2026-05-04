@@ -20,12 +20,11 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] bow safi sol tik da charge in calismasini istemiyorum. Mouse a 1 saniyeden fazla sol tiki tutarsan bow charge i calistir seklinde bir sey yapmamiz lazim.
+- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 
 
 ## BUGS
 
-- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
 
 
@@ -34,6 +33,7 @@ kanban-plugin: board
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
 - [ ] hammer charge aktifken oyuncunun damage almasini yuzde x azalt.
 - [ ] level up sonrasi butun barlar fullencek
+- [ ] bow safi sol tik da charge in calismasini istemiyorum. Mouse a 1 saniyeden fazla sol tiki tutarsan bow charge i calistir seklinde bir sey yapmamiz lazim.
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik
 - [ ] gold count ui ve level count ui
 - [ ] can ve experience bar

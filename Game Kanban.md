@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
 - [ ] belirli fonksiyonlari augment alma tarzi yap
+- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 
 
 ## DOING

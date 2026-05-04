@@ -11,10 +11,7 @@ kanban-plugin: board
 - [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
-- [ ] her 5 katta bir odul verilecek sandik
-- [ ] sag tika bow koy, arrowlarin ucundaki collider a sart ver eger wall a degerse dursun eger enemy ye degerse ucsun ve parcalansin
 - [ ] level design 5 kat
-- [ ] deneme
 
 
 ## DOING
@@ -26,6 +23,16 @@ kanban-plugin: board
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
+
+
+## BACKLOG
+
+- [ ] Oyunun icerisinden edinebilecegin mistik bir cihaz. Mini pet besleme oyunu.
+- [ ] fog of war perhaps? In certain areas?
+- [ ] spamming the left key could increase the camera shake.
+- [ ] camera zoom lower in the village area
+- [ ] kirilabilir duvarlardan uygun lootlar
+- [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 
 
 ## DONE
@@ -43,19 +50,10 @@ kanban-plugin: board
 - [ ] dungeon mobility 1.5x
 - [ ] Transition effect (black screen)
 - [ ] visual feedback : hit stop
+- [ ] sag tika bow koy, arrowlarin ucundaki collider a sart ver eger wall a degerse dursun eger enemy ye degerse ucsun ve parcalansin
 - [ ] mage enemy class
 - [ ] hammercharge da arrow instantiate ediliyor.
 - [ ] 2 more enemy types
-
-
-## BACKLOG
-
-- [ ] Oyunun icerisinden edinebilecegin mistik bir cihaz. Mini pet besleme oyunu.
-- [ ] fog of war perhaps? In certain areas?
-- [ ] spamming the left key could increase the camera shake.
-- [ ] camera zoom lower in the village area
-- [ ] kirilabilir duvarlardan uygun lootlar
-- [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 
 
 

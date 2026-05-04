@@ -27,6 +27,7 @@ kanban-plugin: board
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
 - [ ] bow safi sol tik da charge in calismasini istemiyorum. Mouse a 1 saniyeden fazla sol tiki tutarsan bow charge i calistir seklinde bir sey yapmamiz lazim.
+- [ ] hammercharge da arrow instantiate ediliyor.
 
 
 ## DONE

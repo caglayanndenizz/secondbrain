@@ -12,9 +12,9 @@ kanban-plugin: board
 - [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
-- [ ] belirli fonksiyonlari augment alma tarzi yap
 - [ ] Katlarda Wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
+- [ ] belirli fonksiyonlari augment alma tarzi yap
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 
 

@@ -55,6 +55,7 @@ kanban-plugin: board
 - [ ] spamming the left key could increase the camera shake.
 - [ ] camera zoom lower in the village area
 - [ ] kirilabilir duvarlardan uygun lootlar
+- [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 
 
 

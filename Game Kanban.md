@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] dungeon png si ekle
 - [ ] experience alma ve level mantigini duzenle.
+- [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
+- [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda Wave mekanigi olustur ve uygula
@@ -23,16 +25,6 @@ kanban-plugin: board
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
-
-
-## BACKLOG
-
-- [ ] Oyunun icerisinden edinebilecegin mistik bir cihaz. Mini pet besleme oyunu.
-- [ ] fog of war perhaps? In certain areas?
-- [ ] spamming the left key could increase the camera shake.
-- [ ] camera zoom lower in the village area
-- [ ] kirilabilir duvarlardan uygun lootlar
-- [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 
 
 ## DONE
@@ -60,6 +52,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

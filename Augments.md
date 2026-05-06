@@ -61,3 +61,13 @@ you summon a pet that can help you fight
 pet damage+
 pet aoe+
 pet cooldown +
+
+
+
+her bir augment in bronze silver ve gold u olacak
+
+bronz movement speed increase %2
+silver movement speed increase %3
+gold movement speed increase %5 
+
+etc.

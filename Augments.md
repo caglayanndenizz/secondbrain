@@ -29,3 +29,9 @@ crossbow shots do damage more than regular bow shots by %10.
 
 
 **hammer strike**
+
+explosion radius increased
+damage increased
+swing speed increased
+charging speed increased
+charging is now not necessary

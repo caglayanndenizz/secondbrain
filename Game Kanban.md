@@ -25,6 +25,7 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
+- [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 
 
 ## DONE

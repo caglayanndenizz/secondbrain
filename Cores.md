@@ -51,6 +51,9 @@ armor +
 reload speed +
 zorluk +
 movement speed +
+Hasarını %100 artırır ancak maksimum canını yarıya indirir.
+Artık büyü yapmak için mana değil, can harcarsın. Bu, oyuncuyu tüm oyun tarzını değiştirmeye zorlar.
+dash skili eklenebilir ve her bir guclendirmede dash skilinin cooldownu azalabilir veya mesafesi artabilir
 
 
 

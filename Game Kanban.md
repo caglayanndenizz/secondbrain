@@ -12,27 +12,27 @@ kanban-plugin: board
 - [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
-- [ ] Katlarda Wave mekanigi olustur ve uygula
+- [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
-- [ ] belirli fonksiyonlari augment alma tarzi yap
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 
 
 ## DOING
 
+- [ ] belirli fonksiyonlari augment alma tarzi yap
 
 
 ## BUGS
 
-- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
-- [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
 
 
 ## DONE
 
+- [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
 - [ ] hammer charge aktifken oyuncunun damage almasini yuzde x azalt.
+- [ ] Projectile magelerin altinda birikiyor. Pooler a aktarmamiz lazim.
 - [ ] level up sonrasi butun barlar fullencek
 - [ ] bow safi sol tik da charge in calismasini istemiyorum. Mouse a 1 saniyeden fazla sol tiki tutarsan bow charge i calistir seklinde bir sey yapmamiz lazim.
 - [ ] damage aldiktan sonra 0.2 sn dokunulmazlik

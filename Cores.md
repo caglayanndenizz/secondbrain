@@ -75,5 +75,11 @@ etc.
 
 
 
-oyuncuyu mutate edecek augmentler
-ejder kafatasi bulur ve ejder 10 15 saniyede bir alev p
+oyuncuyu mutate edecek augmentler veya duvarlarin icinden de bulabilir artifact olarak belli degil.
+
+ejder kafatasi bulur ve ejder 10 15 saniyede bir alev puskurtur etrafina?
+
+goblin kafaligina sahip olursa elde ettigi altinlar x2 olur kisa sureligine
+
+falan felan. Pixel fantasy de ne varsa ordan burdan bi kac tane bulabiliriz helmet tarzi
+

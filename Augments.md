@@ -50,6 +50,7 @@ shield +
 armor + 
 reload speed +
 zorluk +
+movement speed +
 
 
 

@@ -58,3 +58,5 @@ ekstra guclendirmeler
 
 you summon a pet that can help you fight
 pet damage+
+pet aoe+
+pet cooldown +

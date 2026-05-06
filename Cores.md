@@ -39,9 +39,6 @@ charging is now not necessary
 hammer charge strike can now break walls (walls can drop you healing items)
 
 
-
-
-
 ivir zivir guclendirmeler
 
 sans +

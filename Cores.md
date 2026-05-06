@@ -72,3 +72,8 @@ silver movement speed increase %3
 gold movement speed increase %5 
 
 etc.
+
+
+
+oyuncuyu mutate edecek augmentler
+ejder kafatasi bulur ve ejder 10 15 saniyede bir alev p

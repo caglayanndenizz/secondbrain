@@ -5,6 +5,7 @@ more damage to normal arrow shots
 x2 speed of the arrows
 arrows now can break walls (walls gives you extra loot when destroyed)
 replace your bow with a shotgun
+swing timer increased
 
 **shotgun SHOTS**
 your shotgun fires more bullets 
@@ -35,3 +36,25 @@ damage increased
 swing speed increased
 charging speed increased
 charging is now not necessary
+hammer charge strike can now break walls (walls can drop you healing items)
+
+
+
+
+
+ivir zivir guclendirmeler
+
+sans +
+damage +
+shield + 
+armor + 
+reload speed +
+zorluk +
+
+
+
+
+ekstra guclendirmeler
+
+you summon a pet that can help you fight
+pet damage+

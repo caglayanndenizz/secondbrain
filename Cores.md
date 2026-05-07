@@ -1,10 +1,10 @@
 **ARROW SHOTS**
-double the amount of arrows fired (unlock)
-arrows create explosion when landed (unlock)
+double the amount of arrows fired (unlock) ✅
+arrows create explosion when landed (unlock) ✅
 more damage to normal arrow shots
 x2 speed of the arrows
 arrows now can break walls (walls gives you extra loot when destroyed)
-replace your bow with a shotgun
+replace your bow with a shotgun (Eger bunu secerse sectigi diger arrow shotlarinin hepsi shotgunda da gecerli olacak mi?)
 swing timer increased
 
 **shotgun SHOTS**

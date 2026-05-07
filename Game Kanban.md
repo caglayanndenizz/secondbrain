@@ -27,6 +27,10 @@ kanban-plugin: board
 - [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 
 
+## Augment popping algorithm
+
+
+
 ## DONE
 
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
@@ -54,6 +58,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
 ```
 %%

@@ -27,6 +27,18 @@ kanban-plugin: board
 ## Augment popping algorithm
 
 - [ ] with each level there will be 1 common 1 rare and 1 wildcard that will increase in possibility of rarity with every level. (yuzde 95 kontrol yani sikici)
+- [ ] agirlikli secim kurulcak.
+	
+	3 adet common + rare + wildcard havuzu kurulacak. 
+	her birisine ait augmentlere bir agirlik tanimlanicak.
+	
+	Agirlik wildcard slotu icin geceri olacak.
+	r = Random(0, totalweight)
+	uretildikten sonra gerekli parametrelerce wildcard slotu birikmis weight e gore dolacak.
+- [ ] X leveldir epic çıkmadıysa epic ağırlığını artır.
+- [ ] - Synergy bias: oyuncunun build’ine uygun augmentlerin ağırlığını +%N artır.
+- [ ] - Recency penalty: son 2 levelde çıkan augmentlerin ağırlığını düşür.
+- [ ] - Seeded random: debug/test için aynı seed ile aynı sonuç.
 
 
 ## DONE

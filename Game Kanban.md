@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
-- [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
 - [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda wave mekanigi olustur ve uygula
@@ -50,6 +49,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] belirli fonksiyonlari augment alma tarzi yap
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.

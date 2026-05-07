@@ -76,6 +76,7 @@ kanban-plugin: board
 
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
+- [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
 
 
 

@@ -18,21 +18,20 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] belirli fonksiyonlari augment alma tarzi yap
 
 
-## BUGS
+## Augments
 
-- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
-- [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 
 
 ## Augment popping algorithm
 
+- [ ] with each level there will be 1 common 1 rare and 1 wildcard that will increase in possibility of rarity with every level. (yuzde 95 kontrol yani sikici)
 
 
 ## DONE
 
+- [ ] belirli fonksiyonlari augment alma tarzi yap
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
 - [ ] ana karakterin pngsini ve animasyonlarini yenile.
 - [ ] hammer charge aktifken oyuncunun damage almasini yuzde x azalt.
@@ -54,10 +53,16 @@ kanban-plugin: board
 - [ ] 2 more enemy types
 
 
+## BUGS
+
+- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
+- [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true]}
 ```
 %%

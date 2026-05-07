@@ -22,6 +22,9 @@ kanban-plugin: board
 
 ## Augments
 
+- [ ] Hasarını %100 artırır ancak maksimum canını yarıya indirir.
+- [ ] dash skili eklenebilir ve her bir guclendirmede dash skilinin cooldownu azalabilir veya mesafesi artabilir
+- [ ] +1 augment slot
 
 
 ## Augment popping algorithm

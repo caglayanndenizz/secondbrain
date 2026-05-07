@@ -1,4 +1,4 @@
-**ARROW SHOTS**
+	**ARROW SHOTS**
 double the amount of arrows fired (unlock) ✅
 arrows create explosion when landed (unlock) ✅
 more damage to normal arrow shots

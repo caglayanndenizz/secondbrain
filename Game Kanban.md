@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] dungeon png si ekle
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 - [ ] kirilabilir duvarlardan uygun lootlar

@@ -1,6 +1,6 @@
 **ARROW SHOTS**
-double the amount of arrows fired
-arrows create explosion when landed
+double the amount of arrows fired (unlock)
+arrows create explosion when landed (unlock)
 more damage to normal arrow shots
 x2 speed of the arrows
 arrows now can break walls (walls gives you extra loot when destroyed)

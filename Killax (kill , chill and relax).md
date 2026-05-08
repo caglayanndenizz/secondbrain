@@ -1,0 +1,3 @@
+- "Juice it or Lose it" — Martin Jonasson & Petri Purho (YouTube'da var, 15 dakika, zorunlu)
+- "The Art of Screenshake" — Jan Willem Nijman (GDC 2013)
+- "30 Things I Hate About Your Game" — Jonathan Blow değil, Phil Fish GDC konuşması

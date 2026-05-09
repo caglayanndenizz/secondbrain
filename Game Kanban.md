@@ -21,7 +21,6 @@ kanban-plugin: board
 
 - [ ] Hasarını %100 artırır ancak maksimum canını yarıya indirir.
 - [ ] dash skili eklenebilir ve her bir guclendirmede dash skilinin cooldownu azalabilir veya mesafesi artabilir
-- [ ] +1 augment slot
 - [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
 - [ ] Health+

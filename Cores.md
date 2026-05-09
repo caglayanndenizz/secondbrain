@@ -49,8 +49,6 @@ reload speed +
 zorluk +
 movement speed +
 
-Artık büyü yapmak için mana değil, can harcarsın. Bu, oyuncuyu tüm oyun tarzını değiştirmeye zorlar.
-
 EXTRAORDINARY AUGMENTS
 
 

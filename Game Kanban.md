@@ -8,8 +8,6 @@ kanban-plugin: board
 
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
-- [ ] enemy png lerini degistir ve animasyonlarini hallet ve statlarini dengele.
-- [ ] Slider'larin png sini degistir ve UI display duzenle.
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir

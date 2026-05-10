@@ -51,4 +51,4 @@ Observer pattern neden kullaniriz?
   
   Unity kullanim senaryolari
 - Basarim sistemi
-- arayuz guncellemeleri ve ses yonetimi
+	- arayuz guncellemeleri ve ses yonetimi

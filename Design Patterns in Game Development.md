@@ -45,6 +45,6 @@ public class PlayerHealth : MonoBehaviour {
 
 Observer pattern neden kullaniriz?
 
-
-loose coupling en onemli sebebidir. Birden fazla modulun haberlesmesini saglamanin en kolay yollarindan bir tanesidir. 
-Temiz kod 
+- loose coupling en onemli sebebidir. Birden fazla modulun haberlesmesini saglamanin en kolay yollarindan bir tanesidir.
+- kodlarin birbirine girmesini engellersin
+- oyuna yeni bir ozellik eklenmesi gerektiginde mesela belirli bir event de ses efekti calmasi buna ornek gosterilebilir. Mevcut kodun hicbirisini degistirmene gerek kalmadan yeni bir observer eklemek yeterli olur.

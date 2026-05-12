@@ -7,7 +7,6 @@ kanban-plugin: board
 ## TO - DO
 
 - [ ] Gravity yi tersine ceviren kodu yaz.
-- [ ] sdlsds
 
 
 ## done

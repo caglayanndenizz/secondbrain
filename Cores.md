@@ -73,7 +73,7 @@ etc.
 
 
 
-oyuncuyu mutate edecek augmentler veya duvarlarin icinden de bulabilir artifact olarak belli degil.
+//oyuncuyu mutate edecek augmentler veya duvarlarin icinden de bulabilir artifact olarak belli degil.
 
 ejder kafatasi bulur ve ejder 10 15 saniyede bir alev puskurtur etrafina?
 

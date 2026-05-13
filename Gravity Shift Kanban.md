@@ -6,8 +6,9 @@ kanban-plugin: board
 
 ## TO - DO
 
-- [ ] Event bus sistemi kurup sistemin temiz ve hatasiz bir sekilde calismasini saglayacagiz
-- [ ] Surekli instantiate destroy mantigi yerine object pooling yaratacagiz.
+- [ ] Oyuncuya kurallari ogretme amaci tasiyan bir sandbox yarat
+- [ ] 1 adet hardcore level , 4 adet sikkos level design et.
+- [ ] Buff fuel adinda bir gameobject yarat. Amaci bufflara yakit saglayarak onlari kullanilabilir hale getirecek.
 
 
 ## done

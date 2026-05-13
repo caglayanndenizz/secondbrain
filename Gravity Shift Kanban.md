@@ -9,6 +9,8 @@ kanban-plugin: board
 - [ ] Oyuncuya kurallari ogretme amaci tasiyan bir sandbox yarat
 - [ ] 1 adet hardcore level , 4 adet sikkos level design et.
 - [ ] Buff fuel adinda bir gameobject yarat. Amaci bufflara yakit saglayarak onlari kullanilabilir hale getirecek.
+- [ ] Suanki buff mantigini rafa kaldir veya brainstorming yaparak daha iyi hale getir.
+- [ ] Speed ve rage bufflarina uygun mantik dusun.
 
 
 ## done
@@ -19,10 +21,16 @@ kanban-plugin: board
 - [ ] Gravity yi tersine ceviren kodu yaz.
 
 
+## Puzzle fikirleri
+
+- [ ] gravity shift yaptigimizda su dolu cukur bosalacak.
+- [ ] gravity shift yaptigimizda isik suzmeleri de yer degistirebilir? Kodlayabilirsek zaten mark zuckerberg um aq
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true]}
+{"kanban-plugin":"board","list-collapse":[false,true,false]}
 ```
 %%

@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Buff fuel adinda bir gameobject yarat. Amaci bufflara yakit saglayarak onlari kullanilabilir hale getirecek.
 - [ ] Suanki buff mantigini rafa kaldir veya brainstorming yaparak daha iyi hale getir.
 - [ ] Speed ve rage bufflarina uygun mantik dusun.
+- [ ] gravity mantigini duzelt.
 
 
 ## done

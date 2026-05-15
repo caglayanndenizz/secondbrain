@@ -23,10 +23,15 @@ kanban-plugin: board
 
 
 
+## Game Mechanics
+
+- [ ] Checkpoint sistemi
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

@@ -44,6 +44,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 - [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] belirli fonksiyonlari augment alma tarzi yap
 - [ ] level up da hammer charge meter tekrar dolu hale gelmiyor.
@@ -70,7 +71,6 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
-- [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 - [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
 
 
@@ -78,6 +78,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,false]}
 ```
 %%

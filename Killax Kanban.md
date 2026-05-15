@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
+- [ ] pool sistemini duzenle.
 
 
 ## DOING
@@ -44,6 +45,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 - [ ] kirilabilir duvarlardan uygun lootlar
 - [ ] belirli fonksiyonlari augment alma tarzi yap
@@ -70,7 +72,6 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
 
 

@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
+- [ ] Oyuncunun sag tik sol tik olayini kaldir.  Oyuncuyu suanlik archer ve warrior class olarak ikiye bol.
 
 
 ## DOING

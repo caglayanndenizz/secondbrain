@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] experience alma ve level mantigini duzenle.
 - [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
@@ -19,32 +18,16 @@ kanban-plugin: board
 
 ## Augments
 
-- [ ] Hasarını %100 artırır ancak maksimum canını yarıya indirir.
 - [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
-- [ ] Health+
 - [ ] Oyuncuya mage class i augmentleri ver.
-
-
-## Augment popping algorithm
-
-- [ ] with each level there will be 1 common 1 rare and 1 wildcard that will increase in possibility of rarity with every level. (yuzde 95 kontrol yani sikici)
-- [ ] agirlikli secim kurulcak.
-	
-	3 adet common + rare + wildcard havuzu kurulacak. 
-	her birisine ait augmentlere bir agirlik tanimlanicak.
-	
-	Agirlik wildcard slotu icin geceri olacak.
-	r = Random(0, totalweight)
-	uretildikten sonra gerekli parametrelerce wildcard slotu birikmis weight e gore dolacak.
-- [ ] X leveldir epic çıkmadıysa epic ağırlığını artır.
-- [ ] - Synergy bias: oyuncunun build’ine uygun augmentlerin ağırlığını +%N artır.
-- [ ] - Recency penalty: son 2 levelde çıkan augmentlerin ağırlığını düşür.
-- [ ] - Seeded random: debug/test için aynı seed ile aynı sonuç.
 
 
 ## DONE
 
+- [ ] experience alma ve level mantigini duzenle.
+- [ ] Health+
+- [ ] Hasarını %100 artırır ancak maksimum canını yarıya indirir.
 - [ ] zindandan cikinca level ve alinan butun augmentler sifirlanacak
 - [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
 - [ ] pool sistemini duzenle.
@@ -82,6 +65,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,false]}
 ```
 %%

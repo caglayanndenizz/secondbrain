@@ -11,7 +11,6 @@ kanban-plugin: board
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] level design 5 kat
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
-- [ ] pool sistemini duzenle.
 
 
 ## DOING
@@ -45,6 +44,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] pool sistemini duzenle.
 - [ ] player a state pattern eklenecek
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.

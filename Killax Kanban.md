@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
 - [ ] Health+
+- [ ] Oyuncuya mage class i augmentleri ver.
 
 
 ## Augment popping algorithm

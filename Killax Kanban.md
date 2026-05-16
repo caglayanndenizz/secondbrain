@@ -45,6 +45,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] zindandan cikinca level ve alinan butun augmentler sifirlanacak
+- [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
 - [ ] pool sistemini duzenle.
 - [ ] player a state pattern eklenecek
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
@@ -74,8 +76,6 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
-- [ ] zindandan cikinca level ve alinan butun augmentler sifirlanacak
 
 
 

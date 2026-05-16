@@ -16,6 +16,7 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] player a state pattern eklenecek
 
 
 ## Augments

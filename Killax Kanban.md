@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
-- [ ] Oyuncunun sag tik sol tik olayini kaldir.  Oyuncuyu suanlik archer ve warrior class olarak ikiye bol.
 
 
 ## DOING
@@ -19,7 +18,7 @@ kanban-plugin: board
 
 - [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
-- [ ] Oyuncuya mage class i augmentleri ver.
+- [ ] Oyuna mage class i augmentleri yarat
 
 
 ## DONE

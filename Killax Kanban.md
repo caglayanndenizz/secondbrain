@@ -6,9 +6,7 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] hammerslam de ortaya cikan yildirim cubuklari 4-8 yon arasinda cikar ve transform.translate seklinde dagilir.
 - [ ] Katlarda wave mekanigi olustur ve uygula
-- [ ] level design 5 kat
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 
 

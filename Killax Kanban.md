@@ -16,7 +16,6 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] player a state pattern eklenecek
 
 
 ## Augments
@@ -46,6 +45,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] player a state pattern eklenecek
 - [ ] enemyler diger enemylerin lineofsight ini kapatiyor. Onu duzelt.
 - [ ] sag sol tik i ayni anda alabiliyosun. Bunu augmente cevirebiliriz.
 - [ ] kirilabilir duvarlardan uygun lootlar

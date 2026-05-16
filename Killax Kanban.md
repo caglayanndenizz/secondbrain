@@ -74,6 +74,7 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] bir kattan diger kata gecerken veya baslangica geri donerken altinlar da sahne degistiriyor. Altinlarin o kata ozgun yap ve diger katlara tasinmamasini sagla.
+- [ ] zindandan cikinca level ve alinan butun augmentler sifirlanacak
 
 
 

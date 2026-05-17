@@ -11,12 +11,12 @@
 
 ### ⚔️ Efekt Kategorileri ve Yaklaşımlar
 
-| Efekt Türü | Uygulanacak Yöntem / Yaklaşım |
-| :--- | :--- |
-| 🔥 **Fire Arrow Hit** | Looping ateş particle + Sprite Flash *(renk kodu zaten var)* |
-| 🧪 **Poison Arrow Hit** | Yeşil puf particle burst + Zamana yayılan yavaş renk pulse efekti |
-| ⚡ **AoE Blast (Charged)** | Shockwave ring sprite animasyonu + Radial particle burst |
-| ❄️ **Freeze** | Mavi ice shard particle veya düşman üzerine overlay sprite |
+| Efekt Türü                | Uygulanacak Yöntem / Yaklaşım                                     |
+| :------------------------ | :---------------------------------------------------------------- |
+| 🔥 **Fire Arrow Hit**     | Looping ateş particle + Sprite Flash *(renk kodu zaten var)*      |
+| 🧪 **Poison Arrow Hit**   | Yeşil puf particle burst + Zamana yayılan yavaş renk pulse efekti |
+| ⚡ **AoE Blast (Charged)** | Shockwave ring sprite animasyonu + Radial particle burst          |
+| ❄️ **Freeze**             | Mavi ice shard particle veya düşman üzerine overlay sprite        |
 
 ### 🛠️ Entegrasyon Yöntemleri
 

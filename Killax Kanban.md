@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
+- [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.
+- [ ] Crossbow animasyonlari yapilmadi
 
 
 ## DOING

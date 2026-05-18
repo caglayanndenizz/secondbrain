@@ -7,24 +7,21 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] Katlarda wave mekanigi olustur ve uygula
-- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.
 - [ ] Crossbow animasyonlari yapilmadi
-
-
-## DOING
-
+- [ ] crossbow boltlarinin png si yok.
 
 
 ## Augments
 
-- [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
-- [ ] Oyuna mage class i augmentleri yarat
+- [ ] Replace your shotgun with a magical wand.
+- [ ] replace your current weapon with magic necklace.?
 
 
 ## DONE
 
+- [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] Health+
 - [ ] Hasarını %100 artırır ancak maksimum canını yarıya indirir.
@@ -61,10 +58,16 @@ kanban-plugin: board
 
 
 
+## Backlog
+
+- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
+- [ ] Oyuna mage class i augmentleri yarat
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,false]}
 ```
 %%

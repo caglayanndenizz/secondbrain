@@ -9,18 +9,18 @@ kanban-plugin: board
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.
 - [ ] Crossbow animasyonlari yapilmadi
-- [ ] crossbow boltlarinin png si yok.
 
 
 ## Augments
 
 - [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
 - [ ] Replace your shotgun with a magical wand.
-- [ ] replace your current weapon with magic necklace.?
+- [ ] replace your current weapon with magic ?
 
 
 ## DONE
 
+- [ ] crossbow boltlarinin png si yok.
 - [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] experience alma ve level mantigini duzenle.
 - [ ] Health+

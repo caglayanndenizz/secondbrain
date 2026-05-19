@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.
-- [ ] Crossbow animasyonlari yapilmadi
 
 
 ## Augments
@@ -20,6 +19,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Crossbow animasyonlari yapilmadi
 - [ ] crossbow boltlarinin png si yok.
 - [ ] Replace your bow with a crossbow. Your bow strikes are now automatic.
 - [ ] experience alma ve level mantigini duzenle.

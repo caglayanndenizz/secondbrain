@@ -7,6 +7,7 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] Katlarda wave mekanigi olustur ve uygula
+- [ ] Bir adet satin alma odasi ve bu odada oyuncu aldigi fakat begenmedigi augmentleri rolleyebilir elde ettigi altinla.
 
 
 ## Augments

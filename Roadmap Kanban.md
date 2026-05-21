@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Karakter mekanigi ve Gravity
 
-- [ ] Gravity degerini 30- 50 arasinda dene.
 - [ ] Oyuna 3 farkli state ekle. 
 	
 	FlippingState

@@ -62,6 +62,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
 
 
 ## Backlog
@@ -74,6 +75,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false]}
 ```
 %%

@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] diger augmentlere de bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] sag tik + sol tik silah kombosu eklenebilir
-- [ ] fire arrow + poison arrow + ice arrow particle effectlerini duzelt
 
 
 ## Augments
@@ -23,6 +22,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] fire arrow + poison arrow + ice arrow particle effectlerini duzelt
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.
 - [ ] Crossbow animasyonlari yapilmadi

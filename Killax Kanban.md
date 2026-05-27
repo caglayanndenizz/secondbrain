@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## TO DO
 
+- [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] Bir adet satin alma odasi ve bu odada oyuncu aldigi fakat begenmedigi augmentleri rolleyebilir elde ettigi altinla veya baska augmentlere yer acmasi icin satabilir. Bunu yaparken ayni zamanda baska npc den x seylerini yapabilir
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
@@ -19,14 +20,13 @@ kanban-plugin: board
 - [ ] replace your current weapon with magic ?
 - [ ] lanetli augmentler listesi hazirla ve begendiklerini entegre edelim.
 - [ ] sag tik + sol tik silah kombosu eklenebilir
-- [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
-- [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
-- [ ] Arrow boyutunu arttiran bir augment
 
 
 ## DONE
 
+- [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
+- [ ] Arrow boyutunu arttiran bir augment
 - [ ] fire arrow + poison arrow + ice arrow particle effectlerini duzelt
 - [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.

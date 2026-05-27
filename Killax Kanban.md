@@ -19,6 +19,8 @@ kanban-plugin: board
 - [ ] Replace your shotgun with a magical wand.
 - [ ] replace your current weapon with magic ?
 - [ ] lanetli augmentler listesi hazirla ve begendiklerini entegre edelim.
+- [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
+- [ ] patlama arrow unu yuzdelik sansa bagla.
 
 
 ## DONE

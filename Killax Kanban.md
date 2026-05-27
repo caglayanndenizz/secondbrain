@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
 - [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
+- [ ] Arrow boyutunu arttiran bir augment
 
 
 ## DONE

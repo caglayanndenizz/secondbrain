@@ -68,6 +68,7 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
+- [ ] bow default saldirida animasyon tetiklenmesi bazen bugli oluyor.
 
 
 ## Backlog

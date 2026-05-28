@@ -25,6 +25,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] bow default saldirida animasyon tetiklenmesi bazen bugli oluyor.
 - [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
 - [ ] Arrow boyutunu arttiran bir augment
 - [ ] fire arrow + poison arrow + ice arrow particle effectlerini duzelt
@@ -68,7 +69,6 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
-- [ ] bow default saldirida animasyon tetiklenmesi bazen bugli oluyor.
 
 
 ## Backlog

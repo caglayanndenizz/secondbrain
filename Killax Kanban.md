@@ -33,17 +33,17 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] hammer charge unlock olmadan hammer charge ile alakali augmentler oyuncuya sunuluyor.
-- [ ] animation clip hizi sadece hammer i degil arrow u da etkiliyor. Hala hammer in vurma hizina animasyon yetisemiyor.
 
 
 ## playtest sonucu yetersizlikler
 
-- [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
 - [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir.
 
 
 ## DONE
 
+- [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
+- [ ] animation clip hizi sadece hammer i degil arrow u da etkiliyor. Hala hammer in vurma hizina animasyon yetisemiyor.
 - [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
 - [ ] bow default saldirida animasyon tetiklenmesi bazen bugli oluyor.
 - [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti

@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Katlarda wave mekanigi olustur ve uygula
+- [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] Bir adet satin alma odasi ve bu odada oyuncu aldigi fakat begenmedigi augmentleri rolleyebilir elde ettigi altinla veya baska augmentlere yer acmasi icin satabilir. Bunu yaparken ayni zamanda baska npc den x seylerini yapabilir
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
-- [ ] diger augmentlere de bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
-- [ ] sag tik + sol tik silah kombosu eklenebilir
+- [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
+- [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
 
 
 ## Augments
@@ -19,10 +19,17 @@ kanban-plugin: board
 - [ ] Replace your shotgun with a magical wand.
 - [ ] replace your current weapon with magic ?
 - [ ] lanetli augmentler listesi hazirla ve begendiklerini entegre edelim.
+- [ ] sag tik + sol tik silah kombosu eklenebilir
+- [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
 
 
 ## DONE
 
+- [ ] bow default saldirida animasyon tetiklenmesi bazen bugli oluyor.
+- [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
+- [ ] Arrow boyutunu arttiran bir augment
+- [ ] fire arrow + poison arrow + ice arrow particle effectlerini duzelt
+- [ ] Katlarda wave mekanigi olustur ve uygula
 - [ ] crossbow augmentleri ekleniyor suan fakat database e eklenmedi.
 - [ ] Crossbow animasyonlari yapilmadi
 - [ ] crossbow boltlarinin png si yok.
@@ -61,6 +68,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
 
 
 ## Backlog
@@ -73,6 +81,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false]}
 ```
 %%

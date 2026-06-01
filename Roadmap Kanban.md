@@ -6,11 +6,6 @@ kanban-plugin: board
 
 ## Karakter mekanigi ve Gravity
 
-- [ ] Oyuna 3 farkli state ekle. 
-	
-	FlippingState
-	FallingState
-	DeadState
 
 
 ## Level Design

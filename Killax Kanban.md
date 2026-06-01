@@ -23,8 +23,15 @@ kanban-plugin: board
 - [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
 
 
+## Backlog
+
+- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
+- [ ] Oyuna mage class i augmentleri yarat
+
+
 ## DONE
 
+- [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
 - [ ] bow default saldirida animasyon tetiklenmesi bazen bugli oluyor.
 - [ ] vampiric arrow adli sustain buildi yapmalik her arrow carptiginda ufak bir can calma augmenti
 - [ ] Arrow boyutunu arttiran bir augment
@@ -68,19 +75,18 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
 
 
-## Backlog
+## playtest sonucu yetersizlikler
 
-- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
-- [ ] Oyuna mage class i augmentleri yarat
+- [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
+- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir.
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,false]}
 ```
 %%

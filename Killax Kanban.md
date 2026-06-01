@@ -27,6 +27,7 @@ kanban-plugin: board
 
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] Oyuna mage class i augmentleri yarat
+- [ ] genel olarak hierarchy yi duzenlemek lazim,
 
 
 ## DONE

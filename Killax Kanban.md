@@ -30,6 +30,18 @@ kanban-plugin: board
 - [ ] genel olarak hierarchy yi duzenlemek lazim,
 
 
+## BUGS
+
+- [ ] hammer charge unlock olmadan hammer charge ile alakali augmentler oyuncuya sunuluyor.
+- [ ] animation clip hizi sadece hammer i degil arrow u da etkiliyor. Hala hammer in vurma hizina animasyon yetisemiyor.
+
+
+## playtest sonucu yetersizlikler
+
+- [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
+- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir.
+
+
 ## DONE
 
 - [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.
@@ -74,20 +86,10 @@ kanban-plugin: board
 - [ ] 2 more enemy types
 
 
-## BUGS
-
-
-
-## playtest sonucu yetersizlikler
-
-- [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
-- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir.
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true]}
 ```
 %%

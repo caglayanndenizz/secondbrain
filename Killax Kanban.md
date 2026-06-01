@@ -27,7 +27,6 @@ kanban-plugin: board
 
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] Oyuna mage class i augmentleri yarat
-- [ ] genel olarak hierarchy yi duzenlemek lazim,
 
 
 ## BUGS
@@ -42,6 +41,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] genel olarak hierarchy yi duzenlemek lazim,
 - [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
 - [ ] animation clip hizi sadece hammer i degil arrow u da etkiliyor. Hala hammer in vurma hizina animasyon yetisemiyor.
 - [ ] crossbow aktif degilken augmentleri oyuncuya sunuluyor.

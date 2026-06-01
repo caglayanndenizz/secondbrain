@@ -27,6 +27,8 @@ kanban-plugin: board
 
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] Oyuna mage class i augmentleri yarat
+- [ ] Enemylerin final spritelarini ve animasyonlarini yap.
+- [ ] 
 
 
 ## BUGS
@@ -36,7 +38,7 @@ kanban-plugin: board
 
 ## playtest sonucu yetersizlikler
 
-- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir.
+- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.
 
 
 ## DONE

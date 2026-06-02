@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] Oyuna mage class i augmentleri yarat
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
+- [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
 
 
 ## BUGS

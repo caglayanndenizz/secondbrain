@@ -32,7 +32,6 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] hammer charge unlock olmadan hammer charge ile alakali augmentler oyuncuya sunuluyor.
 
 
 ## playtest sonucu yetersizlikler
@@ -42,6 +41,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] hammer charge unlock olmadan hammer charge ile alakali augmentler oyuncuya sunuluyor.
 - [ ] genel olarak hierarchy yi duzenlemek lazim,
 - [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
 - [ ] animation clip hizi sadece hammer i degil arrow u da etkiliyor. Hala hammer in vurma hizina animasyon yetisemiyor.

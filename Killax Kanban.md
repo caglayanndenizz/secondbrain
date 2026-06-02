@@ -28,7 +28,6 @@ kanban-plugin: board
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] Oyuna mage class i augmentleri yarat
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
-- [ ] 
 
 
 ## BUGS

@@ -39,6 +39,8 @@ kanban-plugin: board
 ## playtest sonucu yetersizlikler
 
 - [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.
+- [ ] spawn point mantigi cok zayif.
+- [ ] Oyuncunun ilk basta dash yetenegi olmasi saldirilardan kacinmak icin hizina ve oda geometrisinin ne kadar iyi olup olmamasina bagli olacak. Onu da istemiyoruz.
 
 
 ## DONE

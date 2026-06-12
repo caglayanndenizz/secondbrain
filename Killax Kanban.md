@@ -33,6 +33,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] player hareket ederken arrowlar mouse un oldugu yere gitmiyor. Yuksek ihtimalle playerin hiz vektoru ve mouse un bulundugu konum esitlenmiyor.
 
 
 ## playtest sonucu yetersizlikler

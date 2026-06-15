@@ -39,11 +39,11 @@ kanban-plugin: board
 
 - [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.
 - [ ] spawn point mantigi cok zayif.
-- [ ] Oyuncunun ilk basta dash yeteneginin olmamasi saldirilardan kacinmak icin hizina ve oda geometrisinin ne kadar iyi olup olmamasina bagli olacak. Onu da istemiyoruz.
 
 
 ## DONE
 
+- [ ] Oyuncunun ilk basta dash yeteneginin olmamasi saldirilardan kacinmak icin hizina ve oda geometrisinin ne kadar iyi olup olmamasina bagli olacak. Onu da istemiyoruz.
 - [ ] hammer charge unlock olmadan hammer charge ile alakali augmentler oyuncuya sunuluyor.
 - [ ] genel olarak hierarchy yi duzenlemek lazim,
 - [ ] hammer light attack in saldiri area sini buyut ve kucuk aoe vuracak sekilde degistir.
@@ -94,6 +94,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true]}
 ```
 %%

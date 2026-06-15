@@ -28,7 +28,7 @@ kanban-plugin: board
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
-- [ ] fog of war mantigini entegre etmeli miyiz?
+- [ ] dinamik nokta isiklandirmasi yapilmali mi ?
 
 
 ## BUGS

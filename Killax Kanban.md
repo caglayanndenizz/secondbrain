@@ -8,6 +8,10 @@ kanban-plugin: board
 
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
+- [ ] ground isiklandirmasi icin bir adet png bul ona sprite isigi ata. Ayni noktaya 3 tane ata. Her birinin opakligi farkli olsun.
+- [ ] golge blob u ekleyebiliriz derinlik katar.
+- [ ] isiklarin icinden gecen sis ve toz parcalari
+- [ ] zindanlar karanlik , odul odalari aydinlik.
 
 
 ## Augments

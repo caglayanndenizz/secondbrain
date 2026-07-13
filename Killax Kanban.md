@@ -31,7 +31,6 @@ kanban-plugin: board
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
-- [ ] dinamik nokta isiklandirmasi yapilmali mi ?
 - [ ] ilk katlardan itibaren isiklandirma azalacak.
 
 
@@ -45,6 +44,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] dinamik nokta isiklandirmasi yapilmali mi ?
 - [ ] levellardaki lighting o kadar onemli ki acilinden ogren
 - [ ] spawn point mantigi cok zayif.
 - [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.

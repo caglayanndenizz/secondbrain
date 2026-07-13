@@ -32,6 +32,7 @@ kanban-plugin: board
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
 - [ ] dinamik nokta isiklandirmasi yapilmali mi ?
+- [ ] ilk katlardan itibaren isiklandirma azalacak.
 
 
 ## BUGS

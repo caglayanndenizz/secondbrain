@@ -32,7 +32,6 @@ kanban-plugin: board
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
 - [ ] dinamik nokta isiklandirmasi yapilmali mi ?
-- [ ] levellardaki lighting o kadar onemli ki acilinden ogren
 
 
 ## BUGS
@@ -45,6 +44,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] levellardaki lighting o kadar onemli ki acilinden ogren
 - [ ] spawn point mantigi cok zayif.
 - [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.
 - [ ] player hareket ederken arrowlar mouse un oldugu yere gitmiyor. Yuksek ihtimalle playerin hiz vektoru ve mouse un bulundugu konum esitlenmiyor.

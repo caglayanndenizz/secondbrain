@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
-- [ ] ground isiklandirmasi icin bir adet png bul ona sprite isigi ata. Ayni noktaya 3 tane ata. Her birinin opakligi farkli olsun.
 - [ ] golge blob u ekleyebiliriz derinlik katar.
 - [ ] isiklarin icinden gecen sis ve toz parcalari
 - [ ] zindanlar karanlik , odul odalari aydinlik.
@@ -38,17 +37,18 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] player hareket ederken arrowlar mouse un oldugu yere gitmiyor. Yuksek ihtimalle playerin hiz vektoru ve mouse un bulundugu konum esitlenmiyor.
 
 
 ## playtest sonucu yetersizlikler
 
-- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.
-- [ ] spawn point mantigi cok zayif.
 
 
 ## DONE
 
+- [ ] spawn point mantigi cok zayif.
+- [ ] waveler hala etkisiz ve genel kotu. Wave mantigi terkedilebilir. Direkt olarak butun dusmanlari 1. level da vermememiz lazim.
+- [ ] player hareket ederken arrowlar mouse un oldugu yere gitmiyor. Yuksek ihtimalle playerin hiz vektoru ve mouse un bulundugu konum esitlenmiyor.
+- [ ] ground isiklandirmasi icin bir adet png bul ona sprite isigi ata. Ayni noktaya 3 tane ata. Her birinin opakligi farkli olsun.
 - [ ] Oyuncunun ilk basta dash yeteneginin olmamasi saldirilardan kacinmak icin hizina ve oda geometrisinin ne kadar iyi olup olmamasina bagli olacak. Onu da istemiyoruz.
 - [ ] hammer charge unlock olmadan hammer charge ile alakali augmentler oyuncuya sunuluyor.
 - [ ] genel olarak hierarchy yi duzenlemek lazim,

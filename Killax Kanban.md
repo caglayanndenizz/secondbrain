@@ -8,9 +8,7 @@ kanban-plugin: board
 
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
-- [ ] golge blob u ekleyebiliriz derinlik katar.
 - [ ] isiklarin icinden gecen sis ve toz parcalari
-- [ ] zindanlar karanlik , odul odalari aydinlik.
 
 
 ## Augments
@@ -44,6 +42,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] zindanlar karanlik , odul odalari aydinlik.
+- [ ] golge blob u ekleyebiliriz derinlik katar.
 - [ ] dinamik nokta isiklandirmasi yapilmali mi ?
 - [ ] levellardaki lighting o kadar onemli ki acilinden ogren
 - [ ] spawn point mantigi cok zayif.

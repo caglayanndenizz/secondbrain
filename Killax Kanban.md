@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] lanetli augmentler listesi hazirla ve begendiklerini entegre edelim.
 - [ ] sag tik + sol tik silah kombosu eklenebilir
 - [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
+- [ ] oklarin veya silahin degdigi objelerde slow motion ve attack yavaslamasi
 
 
 ## Backlog

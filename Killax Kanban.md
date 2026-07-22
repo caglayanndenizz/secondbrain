@@ -28,9 +28,7 @@ kanban-plugin: board
 - [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] Oyuna mage class i augmentleri yarat
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
-- [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
-- [ ] ilk katlardan itibaren isiklandirma azalacak.
 - [ ] boss animator scripti yazildi bosslar yapiliyoken onu ekle
 
 
@@ -44,6 +42,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] ilk katlardan itibaren isiklandirma azalacak.
+- [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] zindanlar karanlik , odul odalari aydinlik.
 - [ ] golge blob u ekleyebiliriz derinlik katar.
 - [ ] dinamik nokta isiklandirmasi yapilmali mi ?

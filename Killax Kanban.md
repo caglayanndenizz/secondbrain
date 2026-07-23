@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] player belirli bir aralikta vurmali. Attack power i x - y arasinda olmali ve damage i random belirlenmeli. Surekli x veya vuramaz.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
 - [ ] pooler sistemini gozden gecir.
+- [ ] bow mutasyonu 4e inecek.
 
 
 ## Augments

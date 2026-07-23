@@ -6,12 +6,9 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
 - [ ] isiklarin icinden gecen sis ve toz parcalari. Shader graph icerisinde simple noise modulu veya particle system ile mesalelere atanmis bir efekt.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
-- [ ] pooler sistemini gozden gecir.
-- [ ] bow mutasyonu 4e inecek.
 
 
 ## Augments
@@ -45,6 +42,9 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
+- [ ] bow mutasyonu 4e inecek.
+- [ ] pooler sistemini gozden gecir.
 - [ ] player belirli bir aralikta vurmali. Attack power i x - y arasinda olmali ve damage i random belirlenmeli. Surekli x veya vuramaz.
 - [ ] kill counter calismiyor
 - [ ] ilk katlardan itibaren isiklandirma azalacak.

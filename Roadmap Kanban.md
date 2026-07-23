@@ -1,10 +1,8 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: list
 ---
 
-## Karakter mekanigi ve Gravity
+## Game Mechanic
 
 
 
@@ -12,13 +10,17 @@ kanban-plugin: board
 
 
 
-## Buff System
+## Augment System
 
 
 
 ## Game Mechanics
 
 - [ ] Checkpoint sistemi
+
+
+## Pooler
+
 
 
 ***
@@ -29,6 +31,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
 - [ ] isiklarin icinden gecen sis ve toz parcalari. Shader graph icerisinde simple noise modulu veya particle system ile mesalelere atanmis bir efekt.
-- [ ] player belirli bir aralikta vurmali. Attack power i x - y arasinda olmali ve damage i random belirlenmeli. Surekli x veya vuramaz.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
 - [ ] pooler sistemini gozden gecir.
 - [ ] bow mutasyonu 4e inecek.
@@ -38,7 +37,6 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] kill counter calismiyor
 
 
 ## playtest sonucu yetersizlikler
@@ -47,6 +45,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] player belirli bir aralikta vurmali. Attack power i x - y arasinda olmali ve damage i random belirlenmeli. Surekli x veya vuramaz.
+- [ ] kill counter calismiyor
 - [ ] ilk katlardan itibaren isiklandirma azalacak.
 - [ ] Enemylerin final spritelarini ve animasyonlarini yap.
 - [ ] zindanlar karanlik , odul odalari aydinlik.

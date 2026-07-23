@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] isiklarin icinden gecen sis ve toz parcalari. Shader graph icerisinde simple noise modulu veya particle system ile mesalelere atanmis bir efekt.
 - [ ] player belirli bir aralikta vurmali. Attack power i x - y arasinda olmali ve damage i random belirlenmeli. Surekli x veya vuramaz.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
+- [ ] pooler sistemini gozden gecir.
 
 
 ## Augments
@@ -36,6 +37,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] kill counter calismiyor
 
 
 ## playtest sonucu yetersizlikler

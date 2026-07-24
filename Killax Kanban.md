@@ -29,6 +29,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] resting prefab -> npc den acilan UI SIK gibi oldu duzelt yarin.
 
 
 ## playtest sonucu yetersizlikler

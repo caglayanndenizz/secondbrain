@@ -24,7 +24,6 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Oyuna mage class i augmentleri yarat
-- [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] boss animator scripti yazildi bosslar yapiliyoken onu ekle
 
 
@@ -38,6 +37,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] sag tik + sol tik silah kombosu eklenebilir
 - [ ] augment reroll
 - [ ] patlama arrow unu yuzdelik sansa bagla.

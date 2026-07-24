@@ -17,7 +17,6 @@ kanban-plugin: board
 - [ ] Replace your shotgun with a magical wand.
 - [ ] replace your current weapon with magic ?
 - [ ] lanetli augmentler listesi hazirla ve begendiklerini entegre edelim.
-- [ ] sag tik + sol tik silah kombosu eklenebilir
 - [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
 - [ ] oklarin veya silahin degdigi objelerde slow motion ve attack yavaslamasi
 
@@ -39,6 +38,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] sag tik + sol tik silah kombosu eklenebilir
 - [ ] augment reroll
 - [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.

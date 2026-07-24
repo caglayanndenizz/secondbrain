@@ -25,7 +25,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] Oyuna mage class i augmentleri yarat
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
@@ -43,6 +42,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim
 - [ ] bow mutasyonu 4e inecek.
 - [ ] pooler sistemini gozden gecir.

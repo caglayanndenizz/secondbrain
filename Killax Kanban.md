@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
 - [ ] isiklarin icinden gecen sis ve toz parcalari. Shader graph icerisinde simple noise modulu veya particle system ile mesalelere atanmis bir efekt.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
-- [ ] augment reroll
 
 
 ## Augments
@@ -40,6 +39,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] augment reroll
 - [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir

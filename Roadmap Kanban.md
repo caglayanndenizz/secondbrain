@@ -1,8 +1,10 @@
 ---
+
 kanban-plugin: list
+
 ---
 
-## Game Mechanic
+## Game Mechanics
 
 
 
@@ -31,6 +33,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false]}
 ```
 %%

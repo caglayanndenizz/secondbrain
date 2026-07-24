@@ -25,7 +25,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] Oyuna mage class i augmentleri yarat
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] boss animator scripti yazildi bosslar yapiliyoken onu ekle
@@ -41,6 +40,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] patlama arrow unu yuzdelik sansa bagla.
 - [ ] augment level i geri getir , kat bitisi gelen chestlere baska bir odul dusun. Armor , damage gibi general olabilir veya move speed veya luck gibi utility sistemi de olabilir.
 - [ ] dilek kuyularina bir altin atip random bir buff alinabilir
 - [ ] diger silahlara da bow mutasyonu gibi kilometre taslari ve trait ozellikleri de eklememiz lazim

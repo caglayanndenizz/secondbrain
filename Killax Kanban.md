@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
 - [ ] isiklarin icinden gecen sis ve toz parcalari. Shader graph icerisinde simple noise modulu veya particle system ile mesalelere atanmis bir efekt.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
+- [ ] augment reroll
 
 
 ## Augments

@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
 - [ ] isiklarin icinden gecen sis ve toz parcalari. Shader graph icerisinde simple noise modulu veya particle system ile mesalelere atanmis bir efekt.
 - [ ] Zirh mantigi entegre edilmeli mi ? veya attack miss leme mi olmali?
-- [ ] button ve ui icin theme olustur.
 
 
 ## Augments
@@ -30,7 +29,6 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] resting prefab -> npc den acilan UI SIK gibi oldu duzelt yarin.
 
 
 ## playtest sonucu yetersizlikler
@@ -39,6 +37,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] resting prefab -> npc den acilan UI SIK gibi oldu duzelt yarin.
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] sag tik + sol tik silah kombosu eklenebilir
 - [ ] augment reroll

@@ -11,6 +11,9 @@ kanban-plugin: board
 - [ ] yeni augmentler ekle
 - [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
+- [ ] Oyuna baslangic ekrani ekle.
+- [ ] Global volume sistemini arastir ve oyuna sesler ekle.
+- [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
 
 
 ## Augments

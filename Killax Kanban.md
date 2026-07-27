@@ -6,23 +6,19 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] mutasyonu tetikleyecek unlock augment sayisini cogalt. Oyuncu hangisiyle mutasyon gecirtecegini kendisi secsin.
+- [ ] Hammer ve crossbow unlock augmentleri hazirla ve mutate et.
+- [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
+- [ ] yeni augmentler ekle
+- [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
+- [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 
 
 ## Augments
 
-- [ ] Replace your crossbow with a shotgun. Your crossbow shots are now automatic.
-- [ ] Replace your shotgun with a magical wand.
-- [ ] replace your current weapon with magic ?
-- [ ] lanetli augmentler listesi hazirla ve begendiklerini entegre edelim.
-- [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
-- [ ] oklarin veya silahin degdigi objelerde slow motion ve attack yavaslamasi
 
 
 ## Backlog
 
-- [ ] Oyuna mage class i augmentleri yarat
-- [ ] boss animator scripti yazildi bosslar yapiliyoken onu ekle
 
 
 ## BUGS
@@ -35,6 +31,11 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Replace your shotgun with a magical wand.
+- [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
+- [ ] oklarin veya silahin degdigi objelerde slow motion ve attack yavaslamasi
+- [ ] Oyuna mage class i augmentleri yarat
+- [ ] replace your current weapon with magic ?
 - [ ] resting prefab -> npc den acilan UI SIK gibi oldu duzelt yarin.
 - [ ] boss odasi veya herhangi bir sekilde oyunun kumar oynayabilecegi veya secim yapabilecegi bir oda. Bu secim herhangi bir sey olabilir. Artifact , boon veya parayla canini veya ekstra augment alabilecegi bir satin alma odasi yukaridakiyle beraber.
 - [ ] sag tik + sol tik silah kombosu eklenebilir

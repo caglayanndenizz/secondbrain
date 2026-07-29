@@ -14,6 +14,8 @@ kanban-plugin: board
 - [ ] Oyuna baslangic ekrani ekle.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
+- [ ] checkpoint sistemini birth objesine bagla.
+- [ ] Playerprefs ile veri kaydetme scriptini yazdir.
 
 
 ## Augments

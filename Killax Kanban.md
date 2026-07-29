@@ -28,6 +28,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] main menu de cikan transition fader hatasini duzelt
 
 
 ## playtest sonucu yetersizlikler

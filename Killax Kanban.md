@@ -11,11 +11,9 @@ kanban-plugin: board
 - [ ] yeni augmentler ekle
 - [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
-- [ ] Oyuna baslangic ekrani ekle.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
 - [ ] checkpoint sistemini birth objesine bagla.
-- [ ] Playerprefs ile veri kaydetme scriptini yazdir.
 - [ ] gold prefab i yarat
 
 
@@ -29,7 +27,6 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] main menu de cikan transition fader hatasini duzelt
 
 
 ## playtest sonucu yetersizlikler
@@ -38,6 +35,9 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Oyuna baslangic ekrani ekle.
+- [ ] Playerprefs ile veri kaydetme scriptini yazdir.
+- [ ] main menu de cikan transition fader hatasini duzelt
 - [ ] Replace your shotgun with a magical wand.
 - [ ] lightning arrow vurdugunda yanindaki enemy ye sektirt
 - [ ] oklarin veya silahin degdigi objelerde slow motion ve attack yavaslamasi

@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
 - [ ] checkpoint sistemini birth objesine bagla.
 - [ ] gold prefab i yarat
+- [ ] player death animasyonu
+- [ ] death screen ve ui
 
 
 ## Augments

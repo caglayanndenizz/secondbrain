@@ -23,16 +23,9 @@ kanban-plugin: board
 
 
 
-## Backlog
-
-
-
 ## BUGS
 
-
-
-## playtest sonucu yetersizlikler
-
+- [ ] bolt prefabi duzeltilecek.
 
 
 ## DONE
@@ -118,6 +111,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
 ```
 %%

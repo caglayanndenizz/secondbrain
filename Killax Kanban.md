@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
 - [ ] checkpoint sistemini birth objesine bagla.
 - [ ] Playerprefs ile veri kaydetme scriptini yazdir.
+- [ ] gold prefab i yarat
 
 
 ## Augments

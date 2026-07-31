@@ -13,10 +13,7 @@ kanban-plugin: board
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
-- [ ] checkpoint sistemini birth objesine bagla.
 - [ ] gold prefab i yarat
-- [ ] player death animasyonu
-- [ ] death screen ve ui
 
 
 ## Augments
@@ -29,6 +26,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] player death animasyonu
+- [ ] death screen ve ui
 - [ ] bolt prefabi duzeltilecek.
 - [ ] Oyuna baslangic ekrani ekle.
 - [ ] Playerprefs ile veri kaydetme scriptini yazdir.

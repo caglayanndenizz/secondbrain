@@ -22,6 +22,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] death  animation needs work.
 
 
 ## DONE

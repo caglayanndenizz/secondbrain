@@ -25,11 +25,11 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] bolt prefabi duzeltilecek.
 
 
 ## DONE
 
+- [ ] bolt prefabi duzeltilecek.
 - [ ] Oyuna baslangic ekrani ekle.
 - [ ] Playerprefs ile veri kaydetme scriptini yazdir.
 - [ ] main menu de cikan transition fader hatasini duzelt

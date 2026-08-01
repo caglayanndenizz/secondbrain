@@ -22,6 +22,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] health bar 0 gozukmuyor
 
 
 ## DONE

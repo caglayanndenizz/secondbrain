@@ -22,11 +22,11 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] death  animation needs work.
 
 
 ## DONE
 
+- [ ] death  animation needs work.
 - [ ] player death animasyonu
 - [ ] death screen ve ui
 - [ ] bolt prefabi duzeltilecek.

@@ -26,6 +26,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] pause menu
 - [ ] health bar 0 gozukmuyor
 - [ ] death  animation needs work.
 - [ ] player death animasyonu

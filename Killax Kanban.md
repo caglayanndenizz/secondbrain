@@ -22,11 +22,11 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] health bar 0 gozukmuyor
 
 
 ## DONE
 
+- [ ] health bar 0 gozukmuyor
 - [ ] death  animation needs work.
 - [ ] player death animasyonu
 - [ ] death screen ve ui

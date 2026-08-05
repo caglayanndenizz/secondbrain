@@ -16,6 +16,11 @@ kanban-plugin: board
 - [ ] gold prefab i yarat
 
 
+## doing
+
+- [ ] utility augmentleri silindi
+
+
 ## Augments
 
 
@@ -113,6 +118,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
 ```
 %%

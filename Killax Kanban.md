@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
+- [ ] heavy attack ile light attack yerini degistirmek lazim. Ilk basta charge layarak baslayacak oyuncu. Augment aldikca o gittikce hizlanacak.
 
 
 ## doing

@@ -7,8 +7,6 @@ kanban-plugin: board
 ## TO DO
 
 - [ ] Hammer ve crossbow unlock augmentleri hazirla ve mutate et.
-- [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
-- [ ] yeni augmentler ekle
 - [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
@@ -18,7 +16,8 @@ kanban-plugin: board
 
 ## doing
 
-- [ ] utility augmentleri silindi
+- [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
+- [ ] yeni augmentler ekle
 
 
 ## Augments
@@ -31,6 +30,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] utility augmentleri silindi
 - [ ] pause menu
 - [ ] health bar 0 gozukmuyor
 - [ ] death  animation needs work.

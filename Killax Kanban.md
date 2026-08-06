@@ -16,7 +16,6 @@ kanban-plugin: board
 
 ## doing
 
-- [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
 - [ ] yeni augmentler ekle
 
 
@@ -30,6 +29,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
 - [ ] utility augmentleri silindi
 - [ ] pause menu
 - [ ] health bar 0 gozukmuyor

@@ -6,17 +6,17 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Hammer ve crossbow unlock augmentleri hazirla ve mutate et.
 - [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
-- [ ] gold prefab i yarat
 
 
 ## doing
 
+- [ ] Hammer mutasyonu sagla.
 - [ ] yeni augmentler ekle
+- [ ] gold prefab i yarat
 
 
 ## Augments

@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
-- [ ] heavy attack ile light attack yerini degistirmek lazim. Ilk basta charge layarak baslayacak oyuncu. Augment aldikca o gittikce hizlanacak.
 
 
 ## doing
@@ -39,6 +38,7 @@ kanban-plugin: board
 - [ ] death screen ve ui
 - [ ] bolt prefabi duzeltilecek.
 - [ ] Oyuna baslangic ekrani ekle.
+- [ ] heavy attack ile light attack yerini degistirmek lazim. Ilk basta charge layarak baslayacak oyuncu. Augment aldikca o gittikce hizlanacak.
 - [ ] Playerprefs ile veri kaydetme scriptini yazdir.
 - [ ] main menu de cikan transition fader hatasini duzelt
 - [ ] Replace your shotgun with a magical wand.

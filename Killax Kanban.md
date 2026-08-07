@@ -25,6 +25,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] wide swing adinda augment in wall loot kismini cikar.
 
 
 ## DONE

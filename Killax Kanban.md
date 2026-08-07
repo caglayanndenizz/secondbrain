@@ -9,7 +9,10 @@ kanban-plugin: board
 - [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
+- [ ] hammer charge bar in UI ini duzenle.
+- [ ] Bow Charge bar yarat ve UI ini hallet
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
+- [ ] unlock augment database ve augment database leri uygun bir sekilde guncelle.
 
 
 ## doing
@@ -26,6 +29,7 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] wide swing adinda augment in wall loot kismini cikar.
+- [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
 
 
 ## DONE
@@ -120,6 +124,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true]}
 ```
 %%

@@ -19,7 +19,6 @@ kanban-plugin: board
 
 - [ ] Hammer mutasyonu sagla.
 - [ ] yeni augmentler ekle
-- [ ] gold prefab i yarat
 
 
 ## Augments
@@ -28,11 +27,12 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
 
 
 ## DONE
 
-- [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
+- [ ] gold prefab i yarat
 - [ ] wide swing adinda augment in wall loot kismini cikar.
 - [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
 - [ ] utility augmentleri silindi

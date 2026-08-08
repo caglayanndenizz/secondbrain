@@ -12,12 +12,12 @@ kanban-plugin: board
 - [ ] hammer charge bar in UI ini duzenle.
 - [ ] Bow Charge bar yarat ve UI ini hallet
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
-- [ ] unlock augment database ve augment database leri uygun bir sekilde guncelle.
 
 
 ## doing
 
 - [ ] Hammer mutasyonu sagla.
+- [ ] unlock augment database ve augment database leri uygun bir sekilde guncelle.
 - [ ] yeni augmentler ekle
 
 
@@ -27,6 +27,7 @@ kanban-plugin: board
 
 ## BUGS
 
+- [ ] tier 2 augmenti nasil spawn edilecek? Mini bosslardan cikacak.
 
 
 ## DONE

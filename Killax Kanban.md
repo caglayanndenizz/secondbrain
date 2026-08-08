@@ -28,12 +28,12 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] wide swing adinda augment in wall loot kismini cikar.
-- [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
 
 
 ## DONE
 
+- [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
+- [ ] wide swing adinda augment in wall loot kismini cikar.
 - [ ] Augmentleri duzenle cogu hala eski sistemin ozelliklerini barindiriyor.
 - [ ] utility augmentleri silindi
 - [ ] pause menu

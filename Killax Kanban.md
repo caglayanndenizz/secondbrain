@@ -27,11 +27,12 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] bow spamlenebiliyor her bi bow shot arasina 0.5 sn falan bi cooldown koymamiz lazim
 
 
 ## DONE
 
+- [ ] dash hala var mi
+- [ ] bow spamlenebiliyor her bi bow shot arasina 0.5 sn falan bi cooldown koymamiz lazim
 - [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
 - [ ] resting de zindana devam etme secenegi yok
 - [ ] resting de wall larin collider larini duzenlememiz lazim

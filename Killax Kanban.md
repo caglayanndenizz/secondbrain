@@ -28,6 +28,9 @@ kanban-plugin: board
 ## BUGS
 
 - [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor
+- [ ] resting de zindana devam etme secenegi yok
+- [ ] bow spamlenebiliyor her bi bow shot arasina 0.5 sn falan bi cooldown koymamiz lazim
+- [ ] resting de wall larin collider larini duzenlememiz lazim
 
 
 ## DONE

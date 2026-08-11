@@ -6,12 +6,9 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
-- [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
-- [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] hammer charge bar in UI ini duzenle.
 - [ ] Bow Charge bar yarat ve UI ini hallet
-- [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
+- [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 
 
 ## doing
@@ -27,11 +24,14 @@ kanban-plugin: board
 
 ## BUGS
 
-- [ ] tier 2 augmenti nasil spawn edilecek? Mini bosslardan cikacak.
 
 
 ## DONE
 
+- [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
+- [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
+- [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.
+- [ ] tier 2 augmenti nasil spawn edilecek? Mini bosslardan cikacak.
 - [ ] dash hala var mi
 - [ ] bow spamlenebiliyor her bi bow shot arasina 0.5 sn falan bi cooldown koymamiz lazim
 - [ ] full bow charge atildiginda explosion olmasi gerekiyor fakat suan olmuyor

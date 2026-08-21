@@ -13,9 +13,6 @@ kanban-plugin: board
 
 ## doing
 
-- [ ] Hammer mutasyonu sagla.
-- [ ] unlock augment database ve augment database leri uygun bir sekilde guncelle.
-- [ ] yeni augmentler ekle
 
 
 ## Augments
@@ -28,6 +25,9 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] unlock augment database ve augment database leri uygun bir sekilde guncelle.
+- [ ] yeni augmentler ekle
+- [ ] Hammer mutasyonu sagla.
 - [ ] Volume sistemi entegre edildikten sonra options kismi ekle ve oralari da ayarla.
 - [ ] 1 adet sonsuz level hazirla. Icerisinde bir adet boss olacak ve o boss kesilmeden oyun tamamlanmayacak.
 - [ ] boss animator scripti yazildi. 1 adet boss ekle son level icin.

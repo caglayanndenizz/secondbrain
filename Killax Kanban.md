@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Global volume sistemini arastir ve oyuna sesler ekle.
+- [ ] balance ve optimizasyon
 
 
 ## doing
@@ -23,6 +23,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 - [ ] unlock augment database ve augment database leri uygun bir sekilde guncelle.
 - [ ] yeni augmentler ekle
 - [ ] Hammer mutasyonu sagla.

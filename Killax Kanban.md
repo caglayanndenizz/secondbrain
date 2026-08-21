@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] hammer charge bar in UI ini duzenle.
-- [ ] Bow Charge bar yarat ve UI ini hallet
 - [ ] Global volume sistemini arastir ve oyuna sesler ekle.
 
 
